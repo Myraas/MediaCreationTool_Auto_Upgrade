@@ -1,5 +1,3 @@
-:: This is not my creation, but I am happy to share it!
-
 @echo off &title MediaCreationTool.bat by AveYo v2019.11.16  ||  pastebin.com/bBw0Avc4  or  git.io/MediaCreationTool.bat
 :: Universal MediaCreationTool wrapper for all MCT Windows 10 versions from 1607 to 1909
 :: Using as source nothing but microsoft-hosted original files for the current and past MCT Windows 10 releases
